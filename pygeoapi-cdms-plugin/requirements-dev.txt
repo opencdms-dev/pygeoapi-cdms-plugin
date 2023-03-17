@@ -1,0 +1,5 @@
+pygeoapi@git+https://github.com/geopython/pygeoapi@0.13.0
+black
+flake8
+pytest
+opencdms-test-data@git+https://github.com/opencdms/opencdms-test-data.git@main

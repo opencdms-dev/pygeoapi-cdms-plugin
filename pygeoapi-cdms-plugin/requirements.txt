@@ -1,0 +1,1 @@
+opencdms@git+https://github.com/opencdms/pyopencdms@main
