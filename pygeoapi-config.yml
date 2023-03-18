@@ -63,8 +63,8 @@ metadata:
 resources:
     cdms:
         type: collection
-        title: CMDS Observation
-        description: CMDS observations
+        title: CDMS Observation
+        description: CDMS observations
         keywords:
             - cdms
             - observation
