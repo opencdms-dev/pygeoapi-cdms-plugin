@@ -2,12 +2,12 @@
 CDMSProvider() plugin to allow supported CDMSs to be used with pygeoapi
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 pip install -r requirements-dev.txt
 
 # Currently we need to also install the pygeoapi dev requirements file
 # (possibly just for `flask_cors`). The requirements file doesn't exist
-# in the installed package so we using piping it to pip using curl.
+# in the installed package so we're piping it to pip using curl.
 pip install -r <(curl https://raw.githubusercontent.com/geopython/pygeoapi/master/requirements-dev.txt)
 
 # Create an opencdmsdb database container
